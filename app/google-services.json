@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "879997290786",
+    "firebase_url": "https://trackmyway2017-4911.firebaseio.com",
+    "project_id": "trackmyway2017-4911",
+    "storage_bucket": "trackmyway2017-4911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879997290786:android:d810c72ed6983514",
+        "android_client_info": {
+          "package_name": "com.trackmyway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879997290786-e3i20u6dabs78obboq97545onnn7prsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trackmyway",
+            "certificate_hash": "C4CD7C9F3F7E07CD0D323E158A605AD28234EEDD"
+          }
+        },
+        {
+          "client_id": "879997290786-06freotum1ei0vb31g7qm5q9pps2gake.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1gJGxlfSkRdD1b7mbgEznNkm1EK-Owt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879997290786-06freotum1ei0vb31g7qm5q9pps2gake.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
